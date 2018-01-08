@@ -1,0 +1,9 @@
+/.project
+.idea/
+out/
+resources/intact/util/ocp/test*.groovy
+**/temp.groovy
+/target
+*.iml
+bin/
+src/scripts/testscript.groovy
